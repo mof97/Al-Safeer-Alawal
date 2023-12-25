@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Watches And Bands",
+        "img": "./imgs/categories/01.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Chargers & Cables",
+        "img": "./imgs/categories/02.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Bags & Wallets",
+        "img": "./imgs/categories/03.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Computers",
+        "img": "./imgs/categories/04.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Accessories",
+        "img": "./imgs/categories/05.jpeg"
+    }
+]
